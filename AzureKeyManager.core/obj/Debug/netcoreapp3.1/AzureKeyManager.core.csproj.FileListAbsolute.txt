@@ -1,0 +1,17 @@
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\bin\Debug\netcoreapp3.1\AzureKeyManager.core.deps.json
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\bin\Debug\netcoreapp3.1\AzureKeyManager.core.dll
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\bin\Debug\netcoreapp3.1\AzureKeyManager.core.pdb
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.csproj.CoreCompileInputs.cache
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.AssemblyInfoInputs.cache
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.AssemblyInfo.cs
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.dll
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.pdb
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\bin\Debug\netcoreapp3.1\AzureKeyManager.core.deps.json
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\bin\Debug\netcoreapp3.1\AzureKeyManager.core.dll
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\bin\Debug\netcoreapp3.1\AzureKeyManager.core.pdb
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.csprojAssemblyReference.cache
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.csproj.CoreCompileInputs.cache
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.AssemblyInfoInputs.cache
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.AssemblyInfo.cs
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.dll
+D:\POC demo\KeyVaultDemo\AzureKeyVault\AzureKeyManager.core\obj\Debug\netcoreapp3.1\AzureKeyManager.core.pdb
