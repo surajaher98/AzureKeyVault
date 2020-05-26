@@ -8,10 +8,10 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '55c20c52-17ac-4c5c-b567-eca119ca9759'
+  azureSubscription: ''
 
   # Function app name
-  functionAppName: 'cicd-from-github-repo'
+  functionAppName: ''
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
