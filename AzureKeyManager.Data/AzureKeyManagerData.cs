@@ -63,6 +63,7 @@ namespace AzureKeyManager.Data
       var xyz = "";
       var pqr = "";
       var lmn = "";
+      var opw = "";
       KeyVaultClient kv = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(GetToken));
       foreach (var item in azureNet.submitSecrets)
       {
