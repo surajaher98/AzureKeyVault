@@ -58,12 +58,7 @@ namespace AzureKeyManager.Data
 
     public bool submitKey(core.AzureKeyManager azureNet)
     {
-      publicazure = azureNet;
-      var abc= "";
-      var xyz = "";
-      var pqr = "";
-      var lmn = "";
-      var opw = "";
+      publicazure = azureNet; 
       KeyVaultClient kv = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(GetToken));
       foreach (var item in azureNet.submitSecrets)
       {
